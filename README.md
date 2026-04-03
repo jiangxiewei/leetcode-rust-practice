@@ -13,6 +13,7 @@ leetcode.com
 |      9      |                     is palindrome                      |    easy    |           easy           |  [rust](src/problems/no_9.rs)   |
 |     11      |               Container With Most Water                |   Medium   |                          |  [rust](src/problems/no_11.rs)  |
 |     12      |                    Integer to Roman                    |   Medium   |                          |  [rust](src/problems/no_12.rs)  |
+|     13      |                    Roman to Integer                    |    Easy    |                          |  [rust](src/problems/no_13.rs)  |
 |     29      |                  Divide Two Integers                   |   Medium   |                          |  [rust](src/problems/no_29.rs)  |
 |     503     |                Next Greater Element II                 |   Medium   |          stack           | [rust](src/problems/no_503.rs)  |
 |    3255     |         Find the Power of K-Size Subarrays II          |   Medium   |                          | [rust](src/problems/no_3255.rs) |
