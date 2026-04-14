@@ -1,6 +1,6 @@
 # leetcode-rust-practice
 
-leetcode.com
+[leetcode](http://leetcode.com)
 
 ## problems
 
@@ -11,6 +11,7 @@ leetcode.com
 |      3      |     Longest Substring Without Repeating Characters     |   Medium   |                                                                                         |  [rust](src/problems/no_3.rs)   |
 |      5      |             Longest Palindromic Substring              |   Medium   |                                                                                         |  [rust](src/problems/no_5.rs)   |
 |      6      |                   Zigzag Conversion                    |   Medium   |                                                                                         |  [rust](src/problems/no_6.rs)   |
+|      7      |                    Reverse Integer                     |   Medium   |                                          stack                                          |  [rust](src/problems/no_6.rs)   |
 |      9      |                     is palindrome                      |    easy    |                                          easy                                           |  [rust](src/problems/no_9.rs)   |
 |     11      |               Container With Most Water                |   Medium   |                                                                                         |  [rust](src/problems/no_11.rs)  |
 |     12      |                    Integer to Roman                    |   Medium   |                                                                                         |  [rust](src/problems/no_12.rs)  |
