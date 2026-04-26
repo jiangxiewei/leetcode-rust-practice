@@ -12,6 +12,7 @@
 |      5      |             Longest Palindromic Substring              |   Medium   |                                                                                         |  [rust](src/problems/no_5.rs)   |
 |      6      |                   Zigzag Conversion                    |   Medium   |                                                                                         |  [rust](src/problems/no_6.rs)   |
 |      7      |                    Reverse Integer                     |   Medium   |                                          stack                                          |  [rust](src/problems/no_6.rs)   |
+|      8      |                String to Integer (atoi)                |   Medium   |                                         string                                          |  [rust](src/problems/no_6.rs)   |
 |      9      |                     is palindrome                      |    easy    |                                          easy                                           |  [rust](src/problems/no_9.rs)   |
 |     11      |               Container With Most Water                |   Medium   |                                                                                         |  [rust](src/problems/no_11.rs)  |
 |     12      |                    Integer to Roman                    |   Medium   |                                                                                         |  [rust](src/problems/no_12.rs)  |
